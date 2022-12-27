@@ -9,13 +9,19 @@ API2 link = https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,con
 Updating the last Ebook project by using API-JSON instead of AVPlayer
 
 
+
+
 GIF Function
 ![1](https://user-images.githubusercontent.com/90476509/209706955-f4d2b7c4-047c-48a7-8f62-bdbbeee3c246.gif)
 
 
 
+
+
 API 1
 ![2](https://user-images.githubusercontent.com/90476509/209706966-16e43aab-148f-4f6c-9b70-d354eeba5b66.gif)
+
+
 
 
 
